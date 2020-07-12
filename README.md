@@ -1,5 +1,6 @@
 ### Coming soon ...
 
+My Blog [neilghosh.com]
 <!--
 **neilghosh/neilghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
