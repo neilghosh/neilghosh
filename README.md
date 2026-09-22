@@ -1,7 +1,8 @@
 # Neil Ghosh
 **Principal Software Engineer at Microsoft**
 
-Principal Software Engineer with over 20 years of experience architecting and operating secure, compliant, and highly scalable distributed systems. Specialized in Microsoft enterprise technologies, safe progressive deployment practices, and agentic SDLC workflows.
+Principal Software Engineer with over 20 years of experience architecting and operating secure, compliant, and highly scalable distributed systems. Specialized in Microsoft enterprise technologies, safe progressive deployment practices, and agentic SDLC workflows. [Open Defender](ms-defender://devices)
+
 
 ---
 
